@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.person {
+  border: 3px solid red;
+}
+
+.name img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}
+
+.name h3 {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+}
+
+.name h4 {
+  display: inline-block;
+  margin-top: 50px;
+  position: absolute;
+}
+
+input {
+  width: 98%;
+  height: 30px;
+  margin-bottom: 5px;
+  border: 3px solid green;
+}
+
+h2 {
+  text-align: center;
+  border: 3px solid blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.employee img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}
